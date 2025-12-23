@@ -1,0 +1,8 @@
+{
+  "Fiction": {
+    "Romance": ["Slow-burn", "Enemies-to-Lovers", "Second Chance"],
+    "Thriller": ["Espionage", "Psychological", "Legal Thriller"],
+    "Sci-Fi": ["Hard Sci-Fi", "Space Opera", "Cyberpunk"],
+    "Horror": ["Psychological Horror", "Gothic", "Slasher"]
+  }
+}

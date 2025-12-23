@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "user_tags": [
+      "Love"
+    ],
+    "blurb": "They hated each other for years, working in the same cubicle, until a late-night deadline changed everything.",
+    "category": "Enemies-to-Lovers",
+    "reasoning": "The story blurb mentions 'They hated each other for years', indicating a long-standing animosity between the two characters. This is a classic setup for the Enemies-to-Lovers trope, where characters who initially dislike each other eventually develop romantic feelings. The mention of a 'late-night deadline' suggests a catalyst for this change, which is a common plot device in this sub-genre.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 2,
+    "user_tags": [
+      "Action",
+      "Spies"
+    ],
+    "blurb": "Agent Smith must recover the stolen drive without being detected by the Kremlin.",
+    "category": "Espionage",
+    "reasoning": "The story blurb mentions 'Agent Smith' and 'recovering the stolen drive', which implies a covert operation. The presence of the Kremlin also suggests a high-stakes, spy-like scenario, making Espionage the most fitting sub-genre.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 3,
+    "user_tags": [
+      "Scary",
+      "House"
+    ],
+    "blurb": "The old Victorian mansion seemed to breathe, its corridors whispering secrets of the family's dark past.",
+    "category": "Gothic",
+    "reasoning": "The story blurb features an old Victorian mansion with a dark past, which is a classic Gothic setting. The mention of 'corridors whispering secrets' adds to the eerie atmosphere, typical of the Gothic sub-genre.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 4,
+    "user_tags": [
+      "Love",
+      "Future"
+    ],
+    "blurb": "A story about a man who falls in love with his AI operating system in a neon-drenched Tokyo.",
+    "category": "Cyberpunk",
+    "reasoning": "The story blurb mentions a 'neon-drenched Tokyo', which is a common setting for cyberpunk fiction. The presence of an AI operating system also fits within the cyberpunk genre, which often explores the intersection of technology and humanity.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 5,
+    "user_tags": [
+      "Action"
+    ],
+    "blurb": "The lawyer stood before the judge, knowing this cross-examination would decide the fate of the city.",
+    "category": "Legal Thriller",
+    "reasoning": "The story blurb mentions a lawyer and a cross-examination, which suggests a focus on the legal system and a high-stakes trial. This is a key characteristic of the Legal Thriller sub-genre, where the plot often revolves around courtroom drama and the pursuit of justice.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 6,
+    "user_tags": [
+      "Space"
+    ],
+    "blurb": "How to build a telescope in your backyard using basic household items.",
+    "category": "[UNMAPPED]",
+    "reasoning": "Blurb appears to be instructional/non-fiction, so no honest match in the fiction taxonomy.",
+    "status": "UNMAPPED"
+  },
+  {
+    "id": 7,
+    "user_tags": [
+      "Sad",
+      "Love"
+    ],
+    "blurb": "They met again 20 years after the war, both gray-haired, wondering what could have been.",
+    "category": "Second Chance",
+    "reasoning": "The story blurb mentions 'They met again 20 years after the war', indicating a reunion of two characters, and 'wondering what could have been' suggests a missed opportunity in the past, which are key elements of the Second Chance sub-genre.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 8,
+    "user_tags": [
+      "Robots"
+    ],
+    "blurb": "A deep dive into the physics of FTL travel and the metabolic needs of long-term stasis.",
+    "category": "Hard Sci-Fi",
+    "reasoning": "The story blurb mentions 'the physics of FTL travel', which is a key concept in Hard Sci-Fi. This sub-genre is characterized by its focus on scientific accuracy and exploration of complex scientific concepts, making it a fitting choice for this story.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 9,
+    "user_tags": [
+      "Ghost"
+    ],
+    "blurb": "A masked killer stalks a group of teenagers at a summer camp.",
+    "category": "Slasher",
+    "reasoning": "The presence of a masked killer and a group of teenagers at a summer camp strongly suggests a Slasher sub-genre, as it matches the classic trope of a masked killer targeting a group of young people in a isolated setting.",
+    "status": "MAPPED"
+  },
+  {
+    "id": 10,
+    "user_tags": [
+      "Recipe",
+      "Sweet"
+    ],
+    "blurb": "Mix two cups of flour with sugar and bake at 350 degrees.",
+    "category": "[UNMAPPED]",
+    "reasoning": "Blurb appears to be instructional/non-fiction, so no honest match in the fiction taxonomy.",
+    "status": "UNMAPPED"
+  }
+]

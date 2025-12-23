@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "user_tags": ["Love"],
+    "blurb": "They hated each other for years, working in the same cubicle, until a late-night deadline changed everything."
+  },
+  {
+    "id": 2,
+    "user_tags": ["Action", "Spies"],
+    "blurb": "Agent Smith must recover the stolen drive without being detected by the Kremlin."
+  },
+  {
+    "id": 3,
+    "user_tags": ["Scary", "House"],
+    "blurb": "The old Victorian mansion seemed to breathe, its corridors whispering secrets of the family's dark past."
+  },
+  {
+    "id": 4,
+    "user_tags": ["Love", "Future"],
+    "blurb": "A story about a man who falls in love with his AI operating system in a neon-drenched Tokyo."
+  },
+  {
+    "id": 5,
+    "user_tags": ["Action"],
+    "blurb": "The lawyer stood before the judge, knowing this cross-examination would decide the fate of the city."
+  },
+  {
+    "id": 6,
+    "user_tags": ["Space"],
+    "blurb": "How to build a telescope in your backyard using basic household items."
+  },
+  {
+    "id": 7,
+    "user_tags": ["Sad", "Love"],
+    "blurb": "They met again 20 years after the war, both gray-haired, wondering what could have been."
+  },
+  {
+    "id": 8,
+    "user_tags": ["Robots"],
+    "blurb": "A deep dive into the physics of FTL travel and the metabolic needs of long-term stasis."
+  },
+  {
+    "id": 9,
+    "user_tags": ["Ghost"],
+    "blurb": "A masked killer stalks a group of teenagers at a summer camp."
+  },
+  {
+    "id": 10,
+    "user_tags": ["Recipe", "Sweet"],
+    "blurb": "Mix two cups of flour with sugar and bake at 350 degrees."
+  }
+]
