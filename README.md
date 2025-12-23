@@ -6,15 +6,25 @@ Task is to classify user submitted content into one of 10 sub-genres if the desc
 
 taxonomy_mapper/
 ├── main.py                 # Entry point + orchestration
+
 ├── src/
+
     ├── llm_arbiter.py         # Stage 2: LLM classification + validation
+    
     ├── preprocessor.py        # Stage 1: Honesty filter
+    
     ├── inference_engine.py    # Stage 3: Pipeline orchestration
+    
     ├── taxonomy_loader.json   # Loads sub-genres hierarchy
+
 ├── test_cases.json        # 10 golden test cases
+
 ├── taxonomy.json          # 10 sub-genres under 'Fiction'
+
 ├── outputs/
+
 │   └── results.json       # Deliverable: Reasoning log
+
 └── README.md              # This file
 
 
